@@ -8,6 +8,6 @@ I use this org to put everything Twitch related I make, into one place.
 
 [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 
-[mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz) / [emoteracer.xyz](https://emoteracer.xyz)
+!! FORK !! [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz) / [emoteracer.xyz](https://emoteracer.xyz)
 
-<script src="https://opencollective.com/mmattdonk/banner.js"></script>
+[mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
